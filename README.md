@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @baooab, chinese name is “Zhang Bao”
-- 👀 I’m interested in JavaScript
+- 👋 Hi, I’m @baooab, chinese name is “张宝”
+- 👀 I’m interested in JavaScript、Node.js、React & Vue
 - 🌱 I’m currently learning React
 - 📫 How to reach me: zhangbao90s@qq.com
 
